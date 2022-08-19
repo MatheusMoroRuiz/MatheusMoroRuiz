@@ -1,7 +1,6 @@
-### Olá me chamo Matheus Moro, tenho curso de qualificação técnica em Programação de Software e atualmente estou cursando Ciência da Computação | 2º Semestre! Meu forte é aplicação mobile porém tenho conhecimento em aplicações Web e Desktop! 
-
 ##
-
+Olá me chamo Matheus Moro, tenho curso de qualificação técnica em Programação de Software e atualmente estou cursando Ciência da Computação | 2º Semestre! Meu forte é aplicação mobile porém tenho conhecimento em aplicações Web e Desktop! 
+##
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <div>
