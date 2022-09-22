@@ -22,7 +22,7 @@
   
   <br>
   ## 📫 Social Networks
-<div>
+<div style="display: inline_block"> <br>
     <a href="https://www.instagram.com/matheus_moro03" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/matheus-moro-a3a571203/" target="_blank">
