@@ -18,16 +18,15 @@
   <img align"center" alt"Moro-WordPress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
   <img align"center" alt"Moro-VScode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align"center" alt"Moro-VStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
-  
+  <br>
   
   <div>
 <!--   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
-    <a href="[[https://www.twitch.tv/rafaballerinii](https://twitter.com/Bryanalexbm1)](https://twitter.com/Bryanalexbm1)" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
-    <a href="https://www.instagram.com/alexbm008" target="_blank">
+    <a href="https://www.instagram.com/matheus_moro03" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://linkedin.com/in/alex-bravo-008-mk" target="_blank">
+    <a href="https://www.linkedin.com/in/matheus-moro-a3a571203/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:bryanalexbm@gmail.com">
+    <a href = "matheusfigter@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 </div>
