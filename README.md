@@ -19,5 +19,5 @@
   <img align"center" alt"Moro-VScode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align"center" alt"Moro-VStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
   
-  <img src="https://github.com/MatheusMoroRuiz/MatheusMoroRuiz/blob/output/github-contribution-grid-snake.svg"/>
+ ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 </div>
