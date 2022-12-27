@@ -4,9 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-moro-a3a571203/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](matheusfigter@gmail.com)
 
-![Seja livre, e viva plenamente](https://user-images.githubusercontent.com/80929677/209724492-819e7a41-e25b-472f-9aa8-06e96879d915.gif)
-
-
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <div>
   <a href="https://github.com/MatheusMoroRuiz">
@@ -32,3 +29,5 @@
   <img align="center" alt"html5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img align="center" alt"html5" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 </div>
+
+  ![Seja livre, e viva plenamente](https://user-images.githubusercontent.com/80929677/209724492-819e7a41-e25b-472f-9aa8-06e96879d915.gif)
