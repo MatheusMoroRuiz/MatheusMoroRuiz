@@ -1,8 +1,33 @@
-### Olá! Eu sou o Matheus Moro ✋
+# Bem-vindo ao Perfil de Matheus Moro Ruiz
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus_moro03/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-moro-a3a571203/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](matheusfigter@gmail.com)
+## 👨‍💻 Sobre Mim
+Olá! Sou Matheus Moro Ruiz, estou cursando o quinto semestre de **Ciência da Computação**. Trabalho atualmente como suporte técnico, onde aplico meu conhecimento para resolver problemas de hardware e software de forma eficiente. Estou realizando cursos, imersões e formações na área de Cientista de Dados, para me aprofundar no assunto e conseguir uma oportunidade na área.  Estou determinado a expandir meus horizontes no campo da tecnologia da informação, buscando constantemente aprender e crescer profissionalmente. 🚀
+
+### 🏅 Conquistas
+- **9º lugar no ranking nacional do CONIC-SEMESP 2022**
+- **Iniciação Científica completa (2022 - 2023 -> 620h) - "Desenvolvimento de um Jogo Sério para Estimular o Consumo Consciente da Água."**: Desenvolvi um aplicativo Desktop onde tive grande aprendizado na linguagem de programação C# e no ambiente de desenvolvimento Visual Studio Community.
+
+### 🌐 Social
+- [LinkedIn](https://www.linkedin.com/in/matheus-moro-a3a571203/)
+- [GitHub](https://github.com/MatheusMoroRuiz)
+- [Instagram](https://www.instagram.com/matheus_moro03/)
+
+## 💼 Experiência Profissional
+- **Paschoalotto Serviços Financeiros, Bauru**: Operador de Telemarketing Ativo e Receptivo (22/06/2022 - 23/01/2023)
+- **Lojas ROTH, Bauru**: Técnico de Apoio ao Usuário de Informática (HELPDESK) (25/01/2023 - Aberto)
+
+## 📚 Educação
+- **Ensino Médio Completo** - Colégio GBI, Bauru (2019 - 2021)
+- **Graduação em Ciência da Computação** - Unisagrado, Bauru (2022 - 2025)
+- **Qualificação Profissional em Desenvolvimento de Software** - Senac, Bauru (620h)
+
+
+## 🌱 Aprendizado Contínuo
+Sempre buscando aprimorar minhas habilidades em diversas áreas, incluindo **Data Science, Python, SQL, Desenvolvimento de Software** e muito mais.
+
+---
+
+**"O maior inimigo do conhecimento não é a ignorância, mas sim a ilusão do conhecimento."** - Stephen William Hawking
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <div>
