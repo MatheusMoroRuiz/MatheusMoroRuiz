@@ -1,7 +1,7 @@
 # Bem-vindo ao Perfil de Matheus Moro Ruiz
 
 ## 👨‍💻 Sobre Mim
-Olá! Sou Matheus Moro Ruiz, estou cursando o quinto semestre de **Ciência da Computação**. Trabalho atualmente como suporte técnico, onde aplico meu conhecimento para resolver problemas de hardware e software de forma eficiente. Estou realizando cursos, imersões e formações na área de Cientista de Dados, para me aprofundar no assunto e conseguir uma oportunidade na área.  Estou determinado a expandir meus horizontes no campo da tecnologia da informação, buscando constantemente aprender e crescer profissionalmente. 🚀
+Olá! Sou Matheus Moro Ruiz, estou cursando o último semestre de **Ciência da Computação**. Trabalho atualmente como suporte técnico, onde aplico meu conhecimento para resolver problemas de hardware e software de forma eficiente. Estou realizando cursos, imersões e formações na área de Cientista de Dados, para me aprofundar no assunto e conseguir uma oportunidade na área.  Estou determinado a expandir meus horizontes no campo da tecnologia da informação, buscando constantemente aprender e crescer profissionalmente. 🚀
 
 ### 🏅 Conquistas
 - **9º lugar no ranking nacional do CONIC-SEMESP 2022**
