@@ -1,26 +1,44 @@
-# Bem-vindo ao Perfil de Matheus Moro Ruiz
+# 🚀 Matheus Moro Ruiz | Desenvolvedor Web & Analista de T.I.
 
 ## 👨‍💻 Sobre Mim
-Olá! Sou Matheus Moro Ruiz, estou cursando o último semestre de **Ciência da Computação**. Trabalho atualmente como suporte técnico, onde aplico meu conhecimento para resolver problemas de hardware e software de forma eficiente. Estou realizando cursos, imersões e formações na área de Cientista de Dados, para me aprofundar no assunto e conseguir uma oportunidade na área.  Estou determinado a expandir meus horizontes no campo da tecnologia da informação, buscando constantemente aprender e crescer profissionalmente. 🚀
+Olá! Sou um estudante no último semestre de **Ciência da Computação** na UNISAGRADO. Minha jornada profissional é focada em **Desenvolvimento de Sistemas, Infraestrutura e Soluções Inteligentes**. Atualmente, atuo como Analista de Suporte Técnico no Grupo HS (Claro), garantindo a eficiência operacional e o bom funcionamento das lojas.
+
+Paralelamente, trabalho como **Desenvolvedor Web Autônomo**, criando soluções sob medida para empresas e projetos pessoais. Meu objetivo é continuar explorando e expandindo minha atuação para o **desenvolvimento de soluções tecnológicas inovadoras**, incluindo áreas como desenvolvimento de sistemas, desenvolvimento web e inteligência artificial.
 
 ### 🏅 Conquistas
 - **9º lugar no ranking nacional do CONIC-SEMESP 2022**
 - **Iniciação Científica completa (2022 - 2023 -> 620h) - "Desenvolvimento de um Jogo Sério para Estimular o Consumo Consciente da Água."**: Desenvolvi um aplicativo Desktop onde tive grande aprendizado na linguagem de programação C# e no ambiente de desenvolvimento Visual Studio Community.
 
-### 🌐 Social
-- [LinkedIn](https://www.linkedin.com/in/matheus-moro-a3a571203/)
-- [GitHub](https://github.com/MatheusMoroRuiz)
-- [Instagram](https://www.instagram.com/matheus_moro03/)
-
 ## 💼 Experiência Profissional
-- **Paschoalotto Serviços Financeiros, Bauru**: Operador de Telemarketing Ativo e Receptivo (22/06/2022 - 23/01/2023)
-- **Lojas ROTH, Bauru**: Técnico de Apoio ao Usuário de Informática (HELPDESK) (25/01/2023 - Aberto)
+- **Desenvolvedor Web (Autônomo)**: Remoto | Mai 2025 - Presente
+- **Analista de T.I.**: Grupo HS - Claro & Motorola | Bauru, SP | Nov 2024 - Presente
+- **Analista de Suporte Técnico**: DX4 Tecnologia | Bauru, SP | Jul 2024 - Nov 2024
+- **Técnico de Apoio ao Usuário de Informática (HelpDesk)**: Lojas ROTH | Bauru, SP | Jun 2023 - Jul 2024
+- **Assistente de Infraestrutura de T.I. (Estágio)**: Lojas ROTH | Bauru, SP | Jan 2023 - Jun 2023
+- **Atendente Financeiro**: Paschoalotto | Bauru, SP | Jun 2022 - Jan 2023
 
-## 📚 Educação
+## 🎓 Educação
 - **Ensino Médio Completo** - Colégio GBI, Bauru (2019 - 2021)
 - **Graduação em Ciência da Computação** - Unisagrado, Bauru (2022 - 2025)
 - **Qualificação Profissional em Desenvolvimento de Software** - Senac, Bauru (620h)
 
+### 💻 Projetos de Desenvolvimento Web
+- **TopCartaz: (Maio 2025)**
+  - Um site que lista os 10 filmes mais recentes em cartaz, com informações como sinopse, avaliação e trailer.
+  - Desenvolvido com Next.js, JavaScript e Tailwind CSS, consumindo dados dinâmicos da API TMDB.
+  - [Link do Projeto Online](https://topcartaz.vercel.app/)
+- **Website Empresarial para Valor Tecnologia de Ativos LTDA: (Jan - Maio 2025)**
+  - Primeira entrega completa como desenvolvedor autônomo, participando de todas as etapas, desde o planejamento até a publicação online.
+  - Utilizei Next.js com React.js para estruturar o site e TypeScript para garantir a robustez.
+  - [Link do Projeto Online](https://valortec.digital/)
+- **Portfólio Pessoal: (Junho 2025)**
+  - Um site desenvolvido para apresentar meus projetos, habilidades e experiências de forma profissional. O portfólio serve como uma vitrine interativa do meu trabalho, destacando o meu conhecimento em desenvolvimento web.
+  - [Link do Projeto Online](https://matheusmoro.vercel.app/)
+
+### 🌐 Social
+- [LinkedIn](https://www.linkedin.com/in/matheusmororuiz/)
+- [GitHub](https://github.com/MatheusMoroRuiz)
+- [Instagram](https://www.instagram.com/matheus_moro03/)
 
 ## 🌱 Aprendizado Contínuo
 Sempre buscando aprimorar minhas habilidades em diversas áreas, incluindo **Data Science, Python, SQL, Desenvolvimento de Software** e muito mais.
